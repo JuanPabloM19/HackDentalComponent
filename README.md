@@ -10,7 +10,7 @@ Interfaz desarrollada en React + TypeScript usando Vite y TailwindCSS.
 - Lucide Icons
 
 ## 🚀 Demo
-[Ver sitio desplegado en Vercel](https://tusitio.vercel.app)
+[Ver sitio desplegado en Vercel](https://hack-dental-component.vercel.app/)
 
 ## 🛠️ Instrucciones para correr localmente
 
